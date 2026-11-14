@@ -1,0 +1,676 @@
+{
+  "version": "1.0.0",
+  "gameVersion": "1.20.1",
+  "loader": "forge",
+  "files": {
+    "mods": [
+      {
+        "id": "Connector-1.0.0-beta.49+1.20.1",
+        "name": "Connector-1.0.0-beta.49+1.20.1.jar",
+        "version": "unknown",
+        "sha256": "e39acd37e162eb48cdfc6ae64776c13507a5ec3d4dd76ae4f39b5b79ca24d431",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/Connector-1.0.0-beta.49%2B1.20.1.jar"
+      },
+      {
+        "id": "antique_atlas",
+        "name": "antique-atlas-3.1.2+1.20.jar",
+        "version": "3.1.2+1.20",
+        "sha256": "8add9c788588f82a4c036b0a91f5c400f039e7d5a7d3ec3e0b585158aadc2624",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/antique-atlas-3.1.2%2B1.20.jar"
+      },
+      {
+        "id": "armoroftheages",
+        "name": "Armor of the Ages-forge-1.20.1-1.3.16.jar",
+        "version": "1.3.16",
+        "sha256": "88768aeb6b003f4644fa8aad34dd6105f0fa1a22a63859181450c42846c2199e",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/Armor%20of%20the%20Ages-forge-1.20.1-1.3.16.jar"
+      },
+      {
+        "id": "bettercaves",
+        "name": "YungsBetterCaves-1.20.1-Forge-2.0.7.jar",
+        "version": "1.20.1-Forge-2.0.7",
+        "sha256": "928054e107c9051ab0e4f5c6beb114ce9e2a1521067cf07e88330052998a9ea0",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/YungsBetterCaves-1.20.1-Forge-2.0.7.jar"
+      },
+      {
+        "id": "betterdeserttemples",
+        "name": "YungsBetterDesertTemples-1.20-Forge-3.0.3.jar",
+        "version": "1.20-Forge-3.0.3",
+        "sha256": "5a74294725232c665b908af6e25224d111550cf69d74613e415b9f48ff150d16",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/YungsBetterDesertTemples-1.20-Forge-3.0.3.jar"
+      },
+      {
+        "id": "betterdungeons",
+        "name": "YungsBetterDungeons-1.20-Forge-4.0.4.jar",
+        "version": "1.20-Forge-4.0.4",
+        "sha256": "93c24e4075c51da0866f3fc92322bdb60e590ac2cd78dce275460839c54c36f5",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/YungsBetterDungeons-1.20-Forge-4.0.4.jar"
+      },
+      {
+        "id": "betterendisland",
+        "name": "YungsBetterEndIsland-1.20-Forge-2.0.6.jar",
+        "version": "1.20-Forge-2.0.6",
+        "sha256": "05c2f43a67116f0bbca32d903b55ce1655b9319ed6554080de02bd1d0c232a83",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/YungsBetterEndIsland-1.20-Forge-2.0.6.jar"
+      },
+      {
+        "id": "betterfortresses",
+        "name": "YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar",
+        "version": "1.20-Forge-2.0.6",
+        "sha256": "12cffc99dccca69d294ba5bc39c331367794b339061572a6f3773620303a2f51",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar"
+      },
+      {
+        "id": "betterjungletemples",
+        "name": "YungsBetterJungleTemples-1.20-Forge-2.0.5.jar",
+        "version": "1.20-Forge-2.0.5",
+        "sha256": "728c0a807742356887edf7d4f736b3870b7c84007ec9c495c27da1dc0b61078d",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/YungsBetterJungleTemples-1.20-Forge-2.0.5.jar"
+      },
+      {
+        "id": "bettermineshafts",
+        "name": "YungsBetterMineshafts-1.20-Forge-4.0.4.jar",
+        "version": "1.20-Forge-4.0.4",
+        "sha256": "6632e7bcc58325098e85bcb755483de7cb3af92a5ea548f3b5c0162cbf0dc1dc",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/YungsBetterMineshafts-1.20-Forge-4.0.4.jar"
+      },
+      {
+        "id": "betteroceanmonuments",
+        "name": "YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar",
+        "version": "1.20-Forge-3.0.4",
+        "sha256": "bea2640c4afeb5231362a756d886ca4f246c7951175c91348272b3ce5d483bae",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar"
+      },
+      {
+        "id": "betterstrongholds",
+        "name": "YungsBetterStrongholds-1.20-Forge-4.0.3.jar",
+        "version": "1.20-Forge-4.0.3",
+        "sha256": "054b0a1be86510ed6bd05de66a29200f13f5603c0c9eb7e62074ddc3d19cb0e4",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/YungsBetterStrongholds-1.20-Forge-4.0.3.jar"
+      },
+      {
+        "id": "betterwitchhuts",
+        "name": "YungsBetterWitchHuts-1.20-Forge-3.0.3.jar",
+        "version": "1.20-Forge-3.0.3",
+        "sha256": "24b3bdc844755e8a39571b5000d8dd829543f7b150d154016ccd926e47d06a71",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/YungsBetterWitchHuts-1.20-Forge-3.0.3.jar"
+      },
+      {
+        "id": "bookofdragons",
+        "name": "bookofdragons-1.4.1-1.20.1.jar",
+        "version": "1.4.1-1.20.1",
+        "sha256": "96d81d36e8a957631485cfcbcdb089b44c693e0e1bcf057343722902c1855fb7",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/bookofdragons-1.4.1-1.20.1.jar"
+      },
+      {
+        "id": "cluttered",
+        "name": "cluttered-[Forge]-3.0.3-1.20.1.jar",
+        "version": "3.0.3-1.20.1",
+        "sha256": "c910256a0b14a9dd0eb0395201730d12fdd5cb793b5bc3f3ecc58566485f26af",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/cluttered-%5BForge%5D-3.0.3-1.20.1.jar"
+      },
+      {
+        "id": "cosmeticarmorreworked",
+        "name": "cosmeticarmorreworked-1.20.1-v1a.jar",
+        "version": "1.20.1-v1a",
+        "sha256": "c790e8671625b05ec0aa19272e0ea74ea95619f953e3c6f39a6736af0d386804",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/cosmeticarmorreworked-1.20.1-v1a.jar"
+      },
+      {
+        "id": "cristellib",
+        "name": "cristellib-1.1.6-forge.jar",
+        "version": "1.1.6",
+        "sha256": "3856ad565ea45d6189452d813e2f021b365b686d3b1adae5f747c56a1e535d9f",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/cristellib-1.1.6-forge.jar"
+      },
+      {
+        "id": "distanthorizons",
+        "name": "DistantHorizons-3.3.3-1.20.1-fabric-forge.jar",
+        "version": "3.3.3",
+        "sha256": "a537a71171d935540b56b7598d0de2c106f6f5026336c713d89a1d9ea0ea14e3",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/DistantHorizons-3.3.3-1.20.1-fabric-forge.jar"
+      },
+      {
+        "id": "dustydecorations",
+        "name": "DustyDecorations_1.20.1Forge_V1.13.jar",
+        "version": "1.12.1",
+        "sha256": "621256a87b4e8e370e20c16359eb91587e7e52efb8ed06b417b24f3eff2cd075",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/DustyDecorations_1.20.1Forge_V1.13.jar"
+      },
+      {
+        "id": "efpunchycompat",
+        "name": "efpunchycompat-1.0.4.jar",
+        "version": "1.0.4",
+        "sha256": "cf5719852735f78038ce66416a1dc0e20a011ef2e2683bc69da7f91af60da17b",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/efpunchycompat-1.0.4.jar"
+      },
+      {
+        "id": "embeddium",
+        "name": "embeddium-0.3.31+mc1.20.1.jar",
+        "version": "0.3.31+mc1.20.1",
+        "sha256": "eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/embeddium-0.3.31%2Bmc1.20.1.jar"
+      },
+      {
+        "id": "entity_model_features",
+        "name": "entity_model_features-3.3.12-1.20.1-forge.jar",
+        "version": "3.3.12",
+        "sha256": "d7caedcb7c848d605a9f075c71e0d13ad5194326e55a6f45a50a97a3d8d87920",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/entity_model_features-3.3.12-1.20.1-forge.jar"
+      },
+      {
+        "id": "entity_texture_features",
+        "name": "entity_texture_features-7.2.7-1.20.1-forge.jar",
+        "version": "7.2.7",
+        "sha256": "9a1a335b50026c1a2770254cd5f89f2f5c85f35a0a8ffeb1de9663c8b356c588",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/entity_texture_features-7.2.7-1.20.1-forge.jar"
+      },
+      {
+        "id": "entityculling",
+        "name": "entityculling-forge-1.11.3-mc1.20.1.jar",
+        "version": "1.11.3",
+        "sha256": "86de2a9fc6538bc26e71e5393ae72018eb9bb349a5dbaa0645fd194da5654b66",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/entityculling-forge-1.11.3-mc1.20.1.jar"
+      },
+      {
+        "id": "epicfight",
+        "name": "epic-fight-20.14.17-mc1.20.1-forge.jar",
+        "version": "20.14.17",
+        "sha256": "69566cf70ae2d91d3f2564c608f014c87e290cef6215c2a27719851165485f73",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/epic-fight-20.14.17-mc1.20.1-forge.jar"
+      },
+      {
+        "id": "epictweaks",
+        "name": "epictweaks-forge-1.20.1-1.1.1.jar",
+        "version": "1.1.1",
+        "sha256": "cea73bc3894a0c0dbeb9e3ed77ca2b2c4432842c3da59570dbfd1208e12cb8db",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/epictweaks-forge-1.20.1-1.1.1.jar"
+      },
+      {
+        "id": "expanded_ecosphere",
+        "name": "expanded_ecosphere-3.2.4-forge.jar",
+        "version": "3.2.4",
+        "sha256": "46d1018f3e18974838dab938b07420dfcb102a3b11dd8c178990525942547d74",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/expanded_ecosphere-3.2.4-forge.jar"
+      },
+      {
+        "id": "fabric-api-0.92.2+1.20.1",
+        "name": "fabric-api-0.92.2+1.20.1.jar",
+        "version": "unknown",
+        "sha256": "4500f844c45573d039d68d3963c9885aa9de7712670216e0ad3e5df16c6770fc",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/fabric-api-0.92.2%2B1.20.1.jar"
+      },
+      {
+        "id": "fabric_api",
+        "name": "fabric-api-0.92.6+1.11.15+1.20.1.jar",
+        "version": "0.92.6+1.11.15+1.20.1",
+        "sha256": "3dd3f93c31122d928297220601f521e6a8a20356bafc7819bf4ddce4c2bb085d",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/fabric-api-0.92.6%2B1.11.15%2B1.20.1.jar"
+      },
+      {
+        "id": "faunaengine",
+        "name": "faunaengine-1.1-1.20.1-forge.jar",
+        "version": "1.1",
+        "sha256": "b48e4dbf8db68bfebf1611cb25cddf3a7bc071284242cf6af39403e08ff315b0",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/faunaengine-1.1-1.20.1-forge.jar"
+      },
+      {
+        "id": "ferritecore",
+        "name": "ferritecore-6.0.1-forge.jar",
+        "version": "6.0.1",
+        "sha256": "9c2c9396a49e796d88497758caa4637d2bcbb433c318e2dd9cebcffbaf0f6c54",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/ferritecore-6.0.1-forge.jar"
+      },
+      {
+        "id": "flan",
+        "name": "flan-1.20.1-1.11.16-forge.jar",
+        "version": "1.20.1-1.11.16",
+        "sha256": "9c596c210095a07474671d9c4776ae2a0a17d56f21bcd840645575f615cb4251",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/flan-1.20.1-1.11.16-forge.jar"
+      },
+      {
+        "id": "food",
+        "name": "kaleidoscope_immersiveEating-forge1.20.1-1.5.3.jar",
+        "version": "1.5.3",
+        "sha256": "0e34bbddb45efc4a7b88b0c11af51ddb24999033f87063e322e93dc8d68dc25f",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/kaleidoscope_immersiveEating-forge1.20.1-1.5.3.jar"
+      },
+      {
+        "id": "geckolib",
+        "name": "geckolib-forge-1.20.1-4.8.4.jar",
+        "version": "4.8.4",
+        "sha256": "4518779a31b6c2abb92c98b5ad17ef3d60177df68626bfc86c44de2764913c2b",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/geckolib-forge-1.20.1-4.8.4.jar"
+      },
+      {
+        "id": "glitchcore",
+        "name": "GlitchCore-forge-1.20.1-0.0.1.1.jar",
+        "version": "0.0.1.1",
+        "sha256": "dedd857b1ee356f002471ec97a2174c7d193d6d1aede60782d0bbe2c241b2a7f",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/GlitchCore-forge-1.20.1-0.0.1.1.jar"
+      },
+      {
+        "id": "globalxp",
+        "name": "globalxp-forge-1.20.1-1.12.jar",
+        "version": "1.12",
+        "sha256": "c06b67f0ee4a12cdcfd5048112049cadeaed6b374f8b4a4c098c6f217bf0ba5d",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/globalxp-forge-1.20.1-1.12.jar"
+      },
+      {
+        "id": "hexerei",
+        "name": "hexerei-0.4.2.3.jar",
+        "version": "1.20.1-0.4.2.3",
+        "sha256": "419db9f15af0ac694dc53a9cc99fa97c3a0ef787ae3d43d9aff87d2030e3f556",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/hexerei-0.4.2.3.jar"
+      },
+      {
+        "id": "icys_better_horses",
+        "name": "icys-better-horses-2.1.8-forge-1.20.1.jar",
+        "version": "2.1.8",
+        "sha256": "eb7bdbf9b9c053f26a5ecf5086a4aca27818ce82ee3f350e4ffced02a611ed4f",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/icys-better-horses-2.1.8-forge-1.20.1.jar"
+      },
+      {
+        "id": "illagerinvasion",
+        "name": "IllagerInvasion-v8.0.7-1.20.1-Forge.jar",
+        "version": "8.0.7",
+        "sha256": "790d52067b30e85ff0dcc4131cf709f9f45c619bdc6b6ff11ed8ac4e3f61acda",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/IllagerInvasion-v8.0.7-1.20.1-Forge.jar"
+      },
+      {
+        "id": "immediatelyfast",
+        "name": "ImmediatelyFast-Forge-1.5.5+1.20.4.jar",
+        "version": "1.5.5+1.20.4",
+        "sha256": "82db19cc65b5c11a444498fb4b8cbcb0393c043e794cb5bf368631a0af765035",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/ImmediatelyFast-Forge-1.5.5%2B1.20.4.jar"
+      },
+      {
+        "id": "immersive_smithing",
+        "name": "immersive-smithing-1.1.1.jar",
+        "version": "1.1.1",
+        "sha256": "c6a464a4a231d05868ddd40124a5fd811d5654d1d4fe4a14fa50ed1256d11345",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/immersive-smithing-1.1.1.jar"
+      },
+      {
+        "id": "jei",
+        "name": "jei-1.20.1-forge-15.74.0.234.jar",
+        "version": "15.74.0.234",
+        "sha256": "0bbd27c886b974be6906fe16f5e5e3ace8a87350b32e4361cca0213df1e7e86e",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/jei-1.20.1-forge-15.74.0.234.jar"
+      },
+      {
+        "id": "kaleidoscope_cookery",
+        "name": "kaleidoscopecookery-1.6.0-forge+mc1.20.1.jar",
+        "version": "1.6.0-forge+mc1.20.1",
+        "sha256": "0eee5579b36746825d6586c65051d9e68fc84178a19dec4372fc9d64b8629d62",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/kaleidoscopecookery-1.6.0-forge%2Bmc1.20.1.jar"
+      },
+      {
+        "id": "lasttravel_legendary_epicfight",
+        "name": "legendary-monsters-epicfight-compat-1.0.0.jar",
+        "version": "1.0.0",
+        "sha256": "aa85a124c4bf5be6f3478bd328f57ab877e1b5c3bc7c12f5926e0ac6e8fba96a",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/legendary-monsters-epicfight-compat-1.0.0.jar"
+      },
+      {
+        "id": "lasttravel_legendary_smithing",
+        "name": "legendary-monsters-immersive-smithing-1.0.0.jar",
+        "version": "1.0.0",
+        "sha256": "e2c2b434702110f882fceadbbeb1f1796e2e3ebf0f5ec3682b9414ea08851480",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/legendary-monsters-immersive-smithing-1.0.0.jar"
+      },
+      {
+        "id": "lasttravel_spartan_diamond",
+        "name": "spartan-diamond-immersive-smithing-1.0.0.jar",
+        "version": "1.0.0",
+        "sha256": "f99abce9e2381096fab442efaaef0bd3b54e415b7423918ea33e35e1c02f7ebc",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/spartan-diamond-immersive-smithing-1.0.0.jar"
+      },
+      {
+        "id": "legendary_monsters",
+        "name": "legendarymonsters-2.2.4 MC 1.20.1.jar",
+        "version": "1.20.1",
+        "sha256": "e5910b0b0a7aa5442ec83a827d08e0609f20041a04e22a656835bb419bf042d9",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/legendarymonsters-2.2.4%20MC%201.20.1.jar"
+      },
+      {
+        "id": "lootr",
+        "name": "lootr-forge-1.20-0.7.35.94.jar",
+        "version": "0.7.35.94",
+        "sha256": "01200ee5889e6bcc3c5fa8f32b7b49a4bd58e653699eeb655c6f2dd314e3ce51",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/lootr-forge-1.20-0.7.35.94.jar"
+      },
+      {
+        "id": "mcqoy",
+        "name": "mcqoy-0.4.1+forge-1.20.jar",
+        "version": "0.4.1+forge-1.20",
+        "sha256": "76e8e318bce124c704ab43b207c6a7d484e966103d88143de96205da2aa115f9",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/mcqoy-0.4.1%2Bforge-1.20.jar"
+      },
+      {
+        "id": "mcwbridges",
+        "name": "mcw-bridges-3.1.2-mc1.20.1forge.jar",
+        "version": "3.1.2",
+        "sha256": "95c5aae4e82758d5c0ca2ba61c4cf72e9240e53f68befe8104c68fa9f9b19eed",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/mcw-bridges-3.1.2-mc1.20.1forge.jar"
+      },
+      {
+        "id": "mcwdoors",
+        "name": "mcw-doors-1.1.5-mc1.20.1forge.jar",
+        "version": "1.1.5",
+        "sha256": "e975bdd5ed1d680e37fb2a6cda4f4eb5c42a837fa24b0cddabe7688df42c10af",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/mcw-doors-1.1.5-mc1.20.1forge.jar"
+      },
+      {
+        "id": "mcwfences",
+        "name": "mcw-mcwfences-1.2.1-mc1.20.1forge.jar",
+        "version": "1.2.1",
+        "sha256": "10deb617769e9674a767a3991af4c46afd081b5de42cee326f71ef2700a14313",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/mcw-mcwfences-1.2.1-mc1.20.1forge.jar"
+      },
+      {
+        "id": "mcwfurnitures",
+        "name": "mcw-furniture-3.4.1-mc1.20.1forge.jar",
+        "version": "3.4.1",
+        "sha256": "9f068315ac5ae7c4b76a6ac0679cde9be59d5cbf37488a477f13b95fe1cbc37d",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/mcw-furniture-3.4.1-mc1.20.1forge.jar"
+      },
+      {
+        "id": "mcwlights",
+        "name": "mcw-lights-1.1.5-mc1.20.1forge.jar",
+        "version": "1.1.5",
+        "sha256": "174437555ff8b3938b5af8fa3f6efcc528fc101e90e35b89570323e4a3726f0a",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/mcw-lights-1.1.5-mc1.20.1forge.jar"
+      },
+      {
+        "id": "mcwpaintings",
+        "name": "mcw-paintings-1.1.0-mc1.20.1forge.jar",
+        "version": "1.1.0",
+        "sha256": "cbd805aa623a01db3ebce71ef1f80340e8036a348457a4848a3dce93df551e05",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/mcw-paintings-1.1.0-mc1.20.1forge.jar"
+      },
+      {
+        "id": "mcwroofs",
+        "name": "mcw-roofs-2.3.2-mc1.20.1forge.jar",
+        "version": "2.3.2",
+        "sha256": "3554317ad8d082a3d9fb5d8b387f5206e545323b4387ed1b93b7b3bf889def3f",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/mcw-roofs-2.3.2-mc1.20.1forge.jar"
+      },
+      {
+        "id": "mcwstairs",
+        "name": "mcw-mcwstairs-1.0.2-mc1.20.1forge.jar",
+        "version": "1.0.2",
+        "sha256": "c952bf7b9eec89071d05da79f73459565847c65187b2f342fa0933c46605bfea",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/mcw-mcwstairs-1.0.2-mc1.20.1forge.jar"
+      },
+      {
+        "id": "mcwtrpdoors",
+        "name": "mcw-trapdoors-1.1.5-mc1.20.1forge.jar",
+        "version": "1.1.5",
+        "sha256": "c2abff58334d79ea61278c6dffd941a4f4ceb5cffadf889359fd45a003738217",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/mcw-trapdoors-1.1.5-mc1.20.1forge.jar"
+      },
+      {
+        "id": "mcwwindows",
+        "name": "mcw-mcwwindows-2.4.2-mc1.20.1forge.jar",
+        "version": "2.4.2",
+        "sha256": "7674d829d5a38d91ca68061e087fded92e976e3e461edcf75117e37a257e8f10",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/mcw-mcwwindows-2.4.2-mc1.20.1forge.jar"
+      },
+      {
+        "id": "modernfix",
+        "name": "modernfix-forge-5.27.91+mc1.20.1.jar",
+        "version": "5.27.91+mc1.20.1",
+        "sha256": "b42fe87fd5ffa46f7db56c6cee01b08dea362baf4cc56a70db40d928773b5000",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/modernfix-forge-5.27.91%2Bmc1.20.1.jar"
+      },
+      {
+        "id": "mowziesmobs",
+        "name": "mowziesmobs-1.8.2.jar",
+        "version": "1.8.2",
+        "sha256": "e8ce1768cda6f1e1fadd2321c92921b473bd0cee45ba4b8387fb30f8326cb31c",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/mowziesmobs-1.8.2.jar"
+      },
+      {
+        "id": "mr_dungeons_andtaverns",
+        "name": "dungeons-and-taverns-3.0.3.f.jar",
+        "version": "3.0.3.f",
+        "sha256": "251b531ff2882c61a4c2eba3bd7b1683aa22b6c2d459e27bfde04a2948c99e1e",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/dungeons-and-taverns-3.0.3.f.jar"
+      },
+      {
+        "id": "mr_dungeons_andtavernsancientcityoverhaul",
+        "name": "dungeons-and-taverns-ancient-city-overhaul-1.jar",
+        "version": "1",
+        "sha256": "74e6e1f495a92ab6c2bb15d3df611cc19ff591fc7bab5a50b5159b9fb1e90fd7",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/dungeons-and-taverns-ancient-city-overhaul-1.jar"
+      },
+      {
+        "id": "mr_dungeons_andtavernspillageroutpostrework",
+        "name": "dungeons-and-taverns-pillager-outpost-rework-1.1.jar",
+        "version": "1.1",
+        "sha256": "7235cd1a473a565cf1c0d5f098233e8de68068924322d6faccde47bb14346135",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/dungeons-and-taverns-pillager-outpost-rework-1.1.jar"
+      },
+      {
+        "id": "mr_dungeons_andtavernsstrongholdrework",
+        "name": "dungeons-and-taverns-stronghold-rework-1.jar",
+        "version": "1",
+        "sha256": "6ceed00d078b1b6b465c2f7f638a01621fb01752bd0f6094b7ff56f5b9ffc864",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/dungeons-and-taverns-stronghold-rework-1.jar"
+      },
+      {
+        "id": "mr_dungeons_andtavernsswamphutrework",
+        "name": "dungeons-and-taverns-swamp-hut-rework-1.jar",
+        "version": "1",
+        "sha256": "a14222bf03c82768ced71a6e5ef7abb436d5ae3cddb816dab171996b694d2762",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/dungeons-and-taverns-swamp-hut-rework-1.jar"
+      },
+      {
+        "id": "mr_epic_fightxspartanweaponry",
+        "name": "epic-fight-x-spartan-weaponry-1.0.0.jar",
+        "version": "1.0.0",
+        "sha256": "0768530d1fdaebc1539bf0ec2c156264ed01b26061a3169388b191f96b47e67d",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/epic-fight-x-spartan-weaponry-1.0.0.jar"
+      },
+      {
+        "id": "mr_tidal_towns",
+        "name": "tidal-towns-2.0.jar",
+        "version": "2.0",
+        "sha256": "349ab80789a83bca9dd9fc1d9f9244962b808ff358a27eba465fe93a081d35a4",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/tidal-towns-2.0.jar"
+      },
+      {
+        "id": "mr_trek",
+        "name": "trek-B0.6.2.jar",
+        "version": "1-B0.6.2",
+        "sha256": "898f0fbe9cc30758b8822bba08bb52413dad38b742454baf60fff12694ebd73c",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/trek-B0.6.2.jar"
+      },
+      {
+        "id": "netherman",
+        "name": "cultofazazelforge-1.1.4.12.jar",
+        "version": "1.1.4.12",
+        "sha256": "92b7eb590241b4c6fbd478f53529807127a2a9bdc5c28f062342df62484b8ed7",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/cultofazazelforge-1.1.4.12.jar"
+      },
+      {
+        "id": "no_enchantments",
+        "name": "no-enchantments-forge-1.20.1-1.0.0.jar",
+        "version": "1.0.0",
+        "sha256": "9e462e8fb50bb35c6fe1283e9b8cb31de86f1037a1a2a077d01111b141c03d01",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/no-enchantments-forge-1.20.1-1.0.0.jar"
+      },
+      {
+        "id": "oculus",
+        "name": "oculus-mc1.20.1-1.8.0.jar",
+        "version": "1.8.0",
+        "sha256": "0945df0cba0f62b3901dd80c3268e5311b770ece78c78037a45db12ac0425fef",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/oculus-mc1.20.1-1.8.0.jar"
+      },
+      {
+        "id": "punchy",
+        "name": "punchy-3.1b-forge-1.20.1.jar",
+        "version": "3.1b",
+        "sha256": "f3a52ce0a837600b0ab093796cc8926cb95e984fef56e0af78984e2a7f2a4661",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/punchy-3.1b-forge-1.20.1.jar"
+      },
+      {
+        "id": "punchy_moves",
+        "name": "punchy-moves-1.0.8-forge-1.20.1.jar",
+        "version": "1.0.8",
+        "sha256": "ff076157bb09681622dce4f5079fe96cc55dcccfb1c2883ae4151730f9639cb0",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/punchy-moves-1.0.8-forge-1.20.1.jar"
+      },
+      {
+        "id": "puzzleslib",
+        "name": "PuzzlesLib-v8.1.36-1.20.1-Forge.jar",
+        "version": "8.1.36",
+        "sha256": "103f1d46c16023e346802a9b2024db885cf8dc3a43ee5106bcd5ed8165073efd",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/PuzzlesLib-v8.1.36-1.20.1-Forge.jar"
+      },
+      {
+        "id": "ribbits",
+        "name": "Ribbits-1.20.1-Forge-3.0.5.jar",
+        "version": "1.20.1-Forge-3.0.5",
+        "sha256": "e04aa665df7e96844fe8833f29cc343feefac8ad7b949399d7b4a60475123e2b",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/Ribbits-1.20.1-Forge-3.0.5.jar"
+      },
+      {
+        "id": "rpgprofessions",
+        "name": "rpgprofessions-0.31.6.jar",
+        "version": "0.31.6",
+        "sha256": "3ae51da74546f21fc893207c63f7221b38de0bd054f2fb1d534ef9dd508d8d48",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/rpgprofessions-0.31.6.jar"
+      },
+      {
+        "id": "serene_shrubbery",
+        "name": "SereneShrubbery-Forge-1.20.1-v2.4.0.jar",
+        "version": "1.2.0",
+        "sha256": "c0efec767e5e47853d89c60139f0516ffaaab0fcae716d6a0594e10726e107a0",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/SereneShrubbery-Forge-1.20.1-v2.4.0.jar"
+      },
+      {
+        "id": "sereneseasons",
+        "name": "SereneSeasons-forge-1.20.1-9.1.0.3.jar",
+        "version": "9.1.0.3",
+        "sha256": "650c35858d335d45adea5445ffaed25ccd433f5cbfe4936ac2694b250177b674",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/SereneSeasons-forge-1.20.1-9.1.0.3.jar"
+      },
+      {
+        "id": "showfps",
+        "name": "showfps-1.2.0.jar",
+        "version": "1.1.1",
+        "sha256": "90e973f00f95d5efff5eac658d862bc8150d3e40e5e733e374a2984d6344ef14",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/showfps-1.2.0.jar"
+      },
+      {
+        "id": "smallhorsestable",
+        "name": "smallhorsestable-1.2.0-forge-1.20.1.jar",
+        "version": "1.2.0",
+        "sha256": "1e0bea6cc82404ca5defea3cf4451428c62b98ce1bfdfda3f04dfddb469162ea",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/smallhorsestable-1.2.0-forge-1.20.1.jar"
+      },
+      {
+        "id": "smallships",
+        "name": "smallships-2.0.2-forge-1.20.1.jar",
+        "version": "2.0.2",
+        "sha256": "9296279c692e424bbd358bc37170708828ddb4c4f683a2074b5e9dfa867d13c8",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/smallships-2.0.2-forge-1.20.1.jar"
+      },
+      {
+        "id": "spartanshields",
+        "name": "SpartanShields-1.20.1-forge-3.1.1.jar",
+        "version": "3.1.1",
+        "sha256": "920368908e26e1a75186e06affd03274d0fe93770d5c5d12c177f53d7aa1deac",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/SpartanShields-1.20.1-forge-3.1.1.jar"
+      },
+      {
+        "id": "spartanweaponry",
+        "name": "SpartanWeaponry-1.20.1-forge-3.2.1-all.jar",
+        "version": "3.2.1",
+        "sha256": "2736ac2dd52a7b3a188df454e61a4154cd36e273fa770f3ab89dcf6e732e88ad",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/SpartanWeaponry-1.20.1-forge-3.2.1-all.jar"
+      },
+      {
+        "id": "spudaciousshops",
+        "name": "spudaciousshops-1.10.2-forge-1.20.1.jar",
+        "version": "1.10.2-forge-1.20.1",
+        "sha256": "0e908264095b8f7673c72d0a56ddcb19d2e839184c1cdb5741a4076e5cc99bf8",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/spudaciousshops-1.10.2-forge-1.20.1.jar"
+      },
+      {
+        "id": "surveyor",
+        "name": "surveyor-1.1.2+1.20.jar",
+        "version": "1.1.2+1.20",
+        "sha256": "fe0508cd65385ccf7b3a6315fb841deab2d2e700e8b36034540fee1a2288bf02",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/surveyor-1.1.2%2B1.20.jar"
+      },
+      {
+        "id": "t_and_t",
+        "name": "Towns-and-Towers-1.12-Fabric+Forge.jar",
+        "version": "1.10.2",
+        "sha256": "9c8115af7109579da990249fdd67b38323a45be70f8a3a962b61da69c7021984",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/Towns-and-Towers-1.12-Fabric%2BForge.jar"
+      },
+      {
+        "id": "takesapillage",
+        "name": "takesapillage-1.0.3-1.20.1.jar",
+        "version": "1.0.3",
+        "sha256": "b8ebc7ea467637dc918ffa9c8eaa273f8723e6e81be93cf5f69618f8072baa11",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/takesapillage-1.0.3-1.20.1.jar"
+      },
+      {
+        "id": "terrablender",
+        "name": "TerraBlender-forge-1.20.1-3.0.1.11.jar",
+        "version": "3.0.1.11",
+        "sha256": "63da472e55998162159ef3038ee9561bf5c23a4430e4155301cbecbf65d1e80a",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/TerraBlender-forge-1.20.1-3.0.1.11.jar"
+      },
+      {
+        "id": "wwoo_forge",
+        "name": "WWOO-FABRIC+FORGE+QUILT-2.0.0.jar",
+        "version": "2.0.0",
+        "sha256": "82c5548aad49558d61bdb64a915788e2e80064547dcdbbd21cc8131da2b50700",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/WWOO-FABRIC%2BFORGE%2BQUILT-2.0.0.jar"
+      },
+      {
+        "id": "yet_another_config_lib_v3",
+        "name": "yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar",
+        "version": "3.6.6+1.20.1-forge",
+        "sha256": "bd05da3d9df29b914165583f1c6dfd918a138996447ff32c0418329824027a8f",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/yet_another_config_lib_v3-3.6.6%2B1.20.1-forge.jar"
+      },
+      {
+        "id": "yungsapi",
+        "name": "YungsApi-1.20-Forge-4.0.6.jar",
+        "version": "1.20-Forge-4.0.6",
+        "sha256": "101c30d01d0cf9d86190f578eb1e43bd06b64092e95662a00ef52946f472c7b1",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/YungsApi-1.20-Forge-4.0.6.jar"
+      },
+      {
+        "id": "yungsbridges",
+        "name": "YungsBridges-1.20-Forge-4.0.3.jar",
+        "version": "1.20-Forge-4.0.3",
+        "sha256": "728e49e81a088291c75835130f59357fe772d77c1f2de91c63872579d5485f6c",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/YungsBridges-1.20-Forge-4.0.3.jar"
+      },
+      {
+        "id": "yungscavebiomes",
+        "name": "YungsCaveBiomes-1.20.1-Forge-2.0.5.jar",
+        "version": "1.20.1-Forge-2.0.5",
+        "sha256": "b799668cbbc0903e885f5b638119d0221186e5dbfe812eaf391f86ab8a97bd42",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/YungsCaveBiomes-1.20.1-Forge-2.0.5.jar"
+      },
+      {
+        "id": "yungsextras",
+        "name": "YungsExtras-1.20-Forge-4.0.3.jar",
+        "version": "1.20-Forge-4.0.3",
+        "sha256": "3def0d66debef6185df82f6b777ec382a59dc66da47c8f081e69cc059da1d98d",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/YungsExtras-1.20-Forge-4.0.3.jar"
+      }
+    ],
+    "resourcepacks": [],
+    "shaderpacks": []
+  }
+}
