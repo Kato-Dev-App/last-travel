@@ -517,10 +517,10 @@
       },
       {
         "id": "punchy_moves",
-        "name": "punchy-moves-1.0.8-forge-1.20.1.jar",
-        "version": "1.0.8",
-        "sha256": "ff076157bb09681622dce4f5079fe96cc55dcccfb1c2883ae4151730f9639cb0",
-        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/punchy-moves-1.0.8-forge-1.20.1.jar"
+        "name": "punchy-moves-1.0.9-forge-1.20.1.jar",
+        "version": "1.0.9",
+        "sha256": "2148585defb8e845c8453e2e03785a7f67d695224ce523f90a7c3e8e3cb21925",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/punchy-moves-1.0.9-forge-1.20.1.jar"
       },
       {
         "id": "puzzleslib",
