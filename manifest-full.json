@@ -376,6 +376,13 @@
         "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/full/mods/spartan-diamond-immersive-smithing-1.0.0.jar"
       },
       {
+        "id": "lasttravel_wood_stone_crafting",
+        "name": "wood-stone-crafting-only-1.0.0.jar",
+        "version": "1.0.0",
+        "sha256": "61e2a4a1b353b49bc030c4310d1dac518e6829cd2058731071d4e2d2972fd6f1",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/full/mods/wood-stone-crafting-only-1.0.0.jar"
+      },
+      {
         "id": "legendary_monsters",
         "name": "legendarymonsters-2.2.4 MC 1.20.1.jar",
         "version": "1.20.1",
@@ -587,10 +594,10 @@
       },
       {
         "id": "rpgprofessions",
-        "name": "rpgprofessions-0.31.14.jar",
-        "version": "0.31.14",
-        "sha256": "689fb4a5402f92240776eec0afd2abead4b8daac6e787bc2014da64a57b3e90d",
-        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/full/mods/rpgprofessions-0.31.14.jar"
+        "name": "rpgprofessions-0.31.20.jar",
+        "version": "0.31.20",
+        "sha256": "3ae57a46c1c1dea7946cc589e1fb05649f683cdeb12cb84a12cff5f33f4aa460",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/full/mods/rpgprofessions-0.31.20.jar"
       },
       {
         "id": "serene_shrubbery",
