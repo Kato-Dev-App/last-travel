@@ -124,11 +124,25 @@
         "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/cristellib-1.1.6-forge.jar"
       },
       {
+        "id": "curios",
+        "name": "curios-forge-5.14.1+1.20.1.jar",
+        "version": "5.14.1+1.20.1",
+        "sha256": "1e817919a35b37cf30524aaec73f0ca5130452f23f168f844854df282eb8e51f",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/curios-forge-5.14.1%2B1.20.1.jar"
+      },
+      {
         "id": "distanthorizons",
         "name": "DistantHorizons-3.3.3-1.20.1-fabric-forge.jar",
         "version": "3.3.3",
         "sha256": "a537a71171d935540b56b7598d0de2c106f6f5026336c713d89a1d9ea0ea14e3",
         "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/DistantHorizons-3.3.3-1.20.1-fabric-forge.jar"
+      },
+      {
+        "id": "dungeons_and_combat",
+        "name": "dungeons_and_combat-1.2.4-forge-1.20.1.jar",
+        "version": "1.2.4",
+        "sha256": "42e142c26d489690ff246da425f43e7d0f2123eb2e8538f8f802d297382028eb",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/dungeons_and_combat-1.2.4-forge-1.20.1.jar"
       },
       {
         "id": "dustydecorations",
@@ -292,6 +306,13 @@
         "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/immersive-smithing-1.1.1.jar"
       },
       {
+        "id": "immersivelanterns",
+        "name": "immersivelanterns-forge-1.0.6-1.20.1.jar",
+        "version": "1.0.6",
+        "sha256": "a05339dde22dbb188ee79f634c4737667a983474580208010cf14ea9a74a414d",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/immersivelanterns-forge-1.0.6-1.20.1.jar"
+      },
+      {
         "id": "jei",
         "name": "jei-1.20.1-forge-15.74.0.234.jar",
         "version": "15.74.0.234",
@@ -304,6 +325,34 @@
         "version": "1.6.0-forge+mc1.20.1",
         "sha256": "0eee5579b36746825d6586c65051d9e68fc84178a19dec4372fc9d64b8629d62",
         "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/kaleidoscopecookery-1.6.0-forge%2Bmc1.20.1.jar"
+      },
+      {
+        "id": "lasttravel_ages_smithing",
+        "name": "ages-immersive-smithing-exact-cost-1.0.0.jar",
+        "version": "1.0.0",
+        "sha256": "387497b174bc6926fcee8fb0649faecf9f7b24724bbb42668039e3ae57ddb102",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/ages-immersive-smithing-exact-cost-1.0.0.jar"
+      },
+      {
+        "id": "lasttravel_dac_boss_balance",
+        "name": "dac-boss-balance-forge-1.20.1-1.0.0.jar",
+        "version": "1.0.0",
+        "sha256": "8de683097e348b69178e32f61c25f93743bb696cb39942662730157cab1360fa",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/dac-boss-balance-forge-1.20.1-1.0.0.jar"
+      },
+      {
+        "id": "lasttravel_dac_content_only",
+        "name": "dac-content-only-forge-1.20.1-1.1.0.jar",
+        "version": "1.1.0",
+        "sha256": "6a8f043ff4f1c68156e42db45989277ba0db4e7a1c30491e4673dd110f108710",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/dac-content-only-forge-1.20.1-1.1.0.jar"
+      },
+      {
+        "id": "lasttravel_dac_smithing",
+        "name": "dac-immersive-smithing-compat-1.2.0.jar",
+        "version": "1.2.0",
+        "sha256": "c4a71ed9b6c14df023ef5ff40381055c425118b74ff2fd10680890ee0d8c9e6a",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/dac-immersive-smithing-compat-1.2.0.jar"
       },
       {
         "id": "lasttravel_legendary_epicfight",
@@ -538,10 +587,10 @@
       },
       {
         "id": "rpgprofessions",
-        "name": "rpgprofessions-0.31.6.jar",
-        "version": "0.31.6",
-        "sha256": "3ae51da74546f21fc893207c63f7221b38de0bd054f2fb1d534ef9dd508d8d48",
-        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/rpgprofessions-0.31.6.jar"
+        "name": "rpgprofessions-0.31.14.jar",
+        "version": "0.31.14",
+        "sha256": "689fb4a5402f92240776eec0afd2abead4b8daac6e787bc2014da64a57b3e90d",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/rpgprofessions-0.31.14.jar"
       },
       {
         "id": "serene_shrubbery",
