@@ -26,6 +26,13 @@
         "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/Armor%20of%20the%20Ages-forge-1.20.1-1.3.16.jar"
       },
       {
+        "id": "backpacked",
+        "name": "backpacked-forge-1.20.1-3.0.9.jar",
+        "version": "3.0.9",
+        "sha256": "2b9b07d873fc3a913e6f259cd0e85c45999e1f1c03927a7202fbd4f7fb185d14",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/backpacked-forge-1.20.1-3.0.9.jar"
+      },
+      {
         "id": "bettercaves",
         "name": "YungsBetterCaves-1.20.1-Forge-2.0.7.jar",
         "version": "1.20.1-Forge-2.0.7",
@@ -250,6 +257,13 @@
         "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/kaleidoscope_immersiveEating-forge1.20.1-1.5.3.jar"
       },
       {
+        "id": "framework",
+        "name": "framework-forge-1.20.1-0.8.0.jar",
+        "version": "0.8.0",
+        "sha256": "37c267f46d8b8dfa81bae8c9fa9fa6467e456cadecae10722ee91b43437f25a0",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/framework-forge-1.20.1-0.8.0.jar"
+      },
+      {
         "id": "geckolib",
         "name": "geckolib-forge-1.20.1-4.8.4.jar",
         "version": "4.8.4",
@@ -325,6 +339,13 @@
         "version": "1.6.0-forge+mc1.20.1",
         "sha256": "0eee5579b36746825d6586c65051d9e68fc84178a19dec4372fc9d64b8629d62",
         "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/kaleidoscopecookery-1.6.0-forge%2Bmc1.20.1.jar"
+      },
+      {
+        "id": "kiwi",
+        "name": "Kiwi-1.20.1-Forge-11.10.3.jar",
+        "version": "11.10.3+forge",
+        "sha256": "803753d53e22124713e66c01559eb0a502e0ccba996ce7e89a9169e48a2660e2",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/Kiwi-1.20.1-Forge-11.10.3.jar"
       },
       {
         "id": "lasttravel_ages_smithing",
@@ -565,6 +586,13 @@
         "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/oculus-mc1.20.1-1.8.0.jar"
       },
       {
+        "id": "passablefoliage",
+        "name": "PassableFoliage-1.20.1-forge-8.2.1.jar",
+        "version": "8.2.1",
+        "sha256": "15c215f1782c21f1ee1295eae3a5e96386eefc790247f5f32bd74893b967ec14",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/PassableFoliage-1.20.1-forge-8.2.1.jar"
+      },
+      {
         "id": "punchy",
         "name": "punchy-3.1b-forge-1.20.1.jar",
         "version": "3.1b",
@@ -594,10 +622,10 @@
       },
       {
         "id": "rpgprofessions",
-        "name": "rpgprofessions-0.31.20.jar",
-        "version": "0.31.20",
-        "sha256": "3ae57a46c1c1dea7946cc589e1fb05649f683cdeb12cb84a12cff5f33f4aa460",
-        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/rpgprofessions-0.31.20.jar"
+        "name": "rpgprofessions-0.31.21.jar",
+        "version": "0.31.21",
+        "sha256": "88d0928a1ac8b0b75321c00649cfb5865a388b51eb0d70e5bb6ffcde833657f1",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/rpgprofessions-0.31.21.jar"
       },
       {
         "id": "serene_shrubbery",
