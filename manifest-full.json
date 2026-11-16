@@ -348,6 +348,13 @@
         "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/full/mods/Kiwi-1.20.1-Forge-11.10.3.jar"
       },
       {
+        "id": "last_travel_weapon_balance",
+        "name": "last-travel-weapon-balance-forge-1.20.1-1.0.0.jar",
+        "version": "1.0.0",
+        "sha256": "2e76cda5d8839cc916ac6f15b6a995a26c911e29e09199fb601eadfb66c6f427",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/full/mods/last-travel-weapon-balance-forge-1.20.1-1.0.0.jar"
+      },
+      {
         "id": "lasttravel_ages_smithing",
         "name": "ages-immersive-smithing-exact-cost-1.0.0.jar",
         "version": "1.0.0",
@@ -626,6 +633,13 @@
         "version": "0.31.21",
         "sha256": "88d0928a1ac8b0b75321c00649cfb5865a388b51eb0d70e5bb6ffcde833657f1",
         "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/full/mods/rpgprofessions-0.31.21.jar"
+      },
+      {
+        "id": "rpgprofessions",
+        "name": "rpgprofessions-0.31.23.jar",
+        "version": "0.31.23",
+        "sha256": "6c37bbb7d4e88f9810b65fcb45c252253878596fe411b9939a8b5849c4d6d434",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/full/mods/rpgprofessions-0.31.23.jar"
       },
       {
         "id": "serene_shrubbery",
