@@ -138,6 +138,20 @@
         "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/low/mods/cristellib-1.1.6-forge.jar"
       },
       {
+        "id": "curios",
+        "name": "curios-forge-5.14.1+1.20.1.jar",
+        "version": "5.14.1+1.20.1",
+        "sha256": "1e817919a35b37cf30524aaec73f0ca5130452f23f168f844854df282eb8e51f",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/low/mods/curios-forge-5.14.1%2B1.20.1.jar"
+      },
+      {
+        "id": "dungeons_and_combat",
+        "name": "dungeons_and_combat-1.2.4-forge-1.20.1.jar",
+        "version": "1.2.4",
+        "sha256": "42e142c26d489690ff246da425f43e7d0f2123eb2e8538f8f802d297382028eb",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/low/mods/dungeons_and_combat-1.2.4-forge-1.20.1.jar"
+      },
+      {
         "id": "dustydecorations",
         "name": "DustyDecorations_1.20.1Forge_V1.13.jar",
         "version": "1.12.1",
@@ -164,6 +178,13 @@
         "version": "20.14.17",
         "sha256": "69566cf70ae2d91d3f2564c608f014c87e290cef6215c2a27719851165485f73",
         "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/low/mods/epic-fight-20.14.17-mc1.20.1-forge.jar"
+      },
+      {
+        "id": "epictweaks",
+        "name": "epictweaks-forge-1.20.1-1.1.1.jar",
+        "version": "1.1.1",
+        "sha256": "cea73bc3894a0c0dbeb9e3ed77ca2b2c4432842c3da59570dbfd1208e12cb8db",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/low/mods/epictweaks-forge-1.20.1-1.1.1.jar"
       },
       {
         "id": "expanded_ecosphere",
@@ -278,6 +299,13 @@
         "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/low/mods/immersive-smithing-1.1.1.jar"
       },
       {
+        "id": "immersivelanterns",
+        "name": "immersivelanterns-forge-1.0.6-1.20.1.jar",
+        "version": "1.0.6",
+        "sha256": "a05339dde22dbb188ee79f634c4737667a983474580208010cf14ea9a74a414d",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/low/mods/immersivelanterns-forge-1.0.6-1.20.1.jar"
+      },
+      {
         "id": "jei",
         "name": "jei-1.20.1-forge-15.74.0.234.jar",
         "version": "15.74.0.234",
@@ -306,6 +334,34 @@
         "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/low/mods/last-travel-weapon-balance-forge-1.20.1-1.0.0.jar"
       },
       {
+        "id": "lasttravel_ages_smithing",
+        "name": "ages-immersive-smithing-exact-cost-1.0.0.jar",
+        "version": "1.0.0",
+        "sha256": "387497b174bc6926fcee8fb0649faecf9f7b24724bbb42668039e3ae57ddb102",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/low/mods/ages-immersive-smithing-exact-cost-1.0.0.jar"
+      },
+      {
+        "id": "lasttravel_dac_boss_balance",
+        "name": "dac-boss-balance-forge-1.20.1-1.0.0.jar",
+        "version": "1.0.0",
+        "sha256": "8de683097e348b69178e32f61c25f93743bb696cb39942662730157cab1360fa",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/low/mods/dac-boss-balance-forge-1.20.1-1.0.0.jar"
+      },
+      {
+        "id": "lasttravel_dac_content_only",
+        "name": "dac-content-only-forge-1.20.1-1.1.0.jar",
+        "version": "1.1.0",
+        "sha256": "6a8f043ff4f1c68156e42db45989277ba0db4e7a1c30491e4673dd110f108710",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/low/mods/dac-content-only-forge-1.20.1-1.1.0.jar"
+      },
+      {
+        "id": "lasttravel_dac_smithing",
+        "name": "dac-immersive-smithing-compat-1.2.0.jar",
+        "version": "1.2.0",
+        "sha256": "c4a71ed9b6c14df023ef5ff40381055c425118b74ff2fd10680890ee0d8c9e6a",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/low/mods/dac-immersive-smithing-compat-1.2.0.jar"
+      },
+      {
         "id": "lasttravel_legendary_epicfight",
         "name": "legendary-monsters-epicfight-compat-1.0.0.jar",
         "version": "1.0.0",
@@ -325,6 +381,13 @@
         "version": "1.0.0",
         "sha256": "f99abce9e2381096fab442efaaef0bd3b54e415b7423918ea33e35e1c02f7ebc",
         "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/low/mods/spartan-diamond-immersive-smithing-1.0.0.jar"
+      },
+      {
+        "id": "lasttravel_wood_stone_crafting",
+        "name": "wood-stone-crafting-only-1.0.0.jar",
+        "version": "1.0.0",
+        "sha256": "61e2a4a1b353b49bc030c4310d1dac518e6829cd2058731071d4e2d2972fd6f1",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/low/mods/wood-stone-crafting-only-1.0.0.jar"
       },
       {
         "id": "legendary_monsters",
@@ -524,17 +587,10 @@
       },
       {
         "id": "rpgprofessions",
-        "name": "rpgprofessions-0.31.21.jar",
-        "version": "0.31.21",
-        "sha256": "88d0928a1ac8b0b75321c00649cfb5865a388b51eb0d70e5bb6ffcde833657f1",
-        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/low/mods/rpgprofessions-0.31.21.jar"
-      },
-      {
-        "id": "rpgprofessions",
-        "name": "rpgprofessions-0.31.24.jar",
-        "version": "0.31.24",
-        "sha256": "74a9b73c6a949b5707effef5e19866ab8a1d2804389aa7323a8cf1b8185326ea",
-        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/low/mods/rpgprofessions-0.31.24.jar"
+        "name": "rpgprofessions-0.31.25.jar",
+        "version": "0.31.25",
+        "sha256": "0184a9b6594e0f871fc8150c66467e02798c4d4413c9572b7d3a805678f8edb5",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/low/mods/rpgprofessions-0.31.25.jar"
       },
       {
         "id": "serene_shrubbery",

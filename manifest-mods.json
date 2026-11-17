@@ -650,10 +650,10 @@
       },
       {
         "id": "rpgprofessions",
-        "name": "rpgprofessions-0.31.24.jar",
-        "version": "0.31.24",
-        "sha256": "74a9b73c6a949b5707effef5e19866ab8a1d2804389aa7323a8cf1b8185326ea",
-        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/rpgprofessions-0.31.24.jar"
+        "name": "rpgprofessions-0.31.25.jar",
+        "version": "0.31.25",
+        "sha256": "0184a9b6594e0f871fc8150c66467e02798c4d4413c9572b7d3a805678f8edb5",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/mods/rpgprofessions-0.31.25.jar"
       },
       {
         "id": "serene_shrubbery",
