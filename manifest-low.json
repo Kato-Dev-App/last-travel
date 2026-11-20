@@ -418,6 +418,13 @@
         "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/low/mods/lootr-forge-1.20-0.7.35.94.jar"
       },
       {
+        "id": "lordbosses",
+        "name": "lordbosses-0.9.7.jar",
+        "version": "0.9.7",
+        "sha256": "5d1d926391b16d41b2bb5f82bb8e3a29383f1d8b8f933f8d34eec55ced04c6fd",
+        "url": "https://raw.githubusercontent.com/Kato-Dev-App/last-travel/main/low/mods/lordbosses-0.9.7.jar"
+      },
+      {
         "id": "mcqoy",
         "name": "mcqoy-0.4.1+forge-1.20.jar",
         "version": "0.4.1+forge-1.20",
